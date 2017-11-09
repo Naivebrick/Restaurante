@@ -2,7 +2,7 @@ ul li{
     list-style-type: none;
     display: inline;
      font-size: 24px;
-     background: #7CE2EE;
+     background: #A4A4A4;
      padding:15px;
      border-radius: 15px;
 
@@ -10,9 +10,9 @@ ul li{
 
 #cabecera{
    text-align: center;
-   font-family: Calibri;
-   color: #0C75EA; 
-   font-size: 30px
+   font-family: BatangChe;
+   color: #DF7401; 
+   font-size: 25px
 }
 #menu{
      text-align: center;
@@ -21,18 +21,18 @@ ul li{
 
 #cuerpo{
     text-align: center;
-    font-family: Calibri;
-    font-size: 20px;
-    font-size: 20px
+    font-family: BatangChe;
+    font-size: 15px;
+    font-size: 15px
 }
 #pie{
     text-align: center;
-    background: #7CE2EE;
+    background: #A4A4A4;
     font-size: 15px;
     color: #3C424A;
 }
 form{
-    width: 800px;
+    width: 15px;
     margin: 0 auto;
     border: 1px solid black;
     border-radius: 10px;
