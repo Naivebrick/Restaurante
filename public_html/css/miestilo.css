@@ -1,0 +1,63 @@
+ul li{
+    list-style-type: none;
+    display: inline;
+     font-size: 24px;
+     background: #7CE2EE;
+     padding:15px;
+     border-radius: 15px;
+
+}
+
+#cabecera{
+   text-align: center;
+   font-family: Calibri;
+   color: #0C75EA; 
+   font-size: 30px
+}
+#menu{
+     text-align: center;
+     
+}
+
+#cuerpo{
+    text-align: center;
+    font-family: Calibri;
+    font-size: 20px;
+    font-size: 20px
+}
+#pie{
+    text-align: center;
+    background: #7CE2EE;
+    font-size: 15px;
+    color: #3C424A;
+}
+form{
+    width: 800px;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 1em;
+}
+
+#formulario h1 { text-align: center; 
+}
+
+label{
+    display: inline-block;
+    width: 200px;
+    text-align: left;   
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+input,textarea{
+   width: 300px;
+   font: 1em cursive;
+   border: 1px solid black;
+}
+input:focus, textarea:focus{
+    border-color: blue;
+} 
+textarea{
+    vertical-align: middle;
+}
